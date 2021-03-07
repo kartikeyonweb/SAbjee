@@ -9,10 +9,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
-{
-	background-image: opacity: 0.5;
 
-}
 h1{
 	font-size: 3rem;
 	color: black;
