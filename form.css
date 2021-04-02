@@ -56,9 +56,9 @@ label{
   
   
 }  
-span{  
+/*span{  
         font-size: 17px;  
-}  
+}  */
 a{  
     float: left;  
     background-color: white;  
@@ -68,15 +68,3 @@ p{
     float: right;
 }
 
-
-
-/*.centre{  
-        position:absolute;
-        top:50%;
-        left:50%;  
-        transform: translate(-50%,-50%);
-        width: 400px;
-        background:white;
-        border-radius:10px;
-          
-}  */
